@@ -47,7 +47,7 @@ Where2Now — your trip. My plan.
 
 ### 🌦 Weather Example
 Bangalore real-time weather using Open-Meteo API
-<img width="700" alt="Weather Screenshot" src="YOUR_IMAGE_LINK_HERE">
+<img width="700" alt="Weather Screenshot" src="home.png">
 
 ---
 
@@ -66,6 +66,7 @@ Complete travel plan for Goa — weather + top spots
 ### 🚫 Error Handling
 Unknown/fictional city example
 <img width="700" alt="Error Handling" src="YOUR_IMAGE_LINK_HERE">
+
 
 
 
