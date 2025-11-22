@@ -53,7 +53,7 @@ Bangalore real-time weather using Open-Meteo API
 
 ### 🗺 Places Example
 Hyderabad attractions using Overpass API
-<img width="700" alt="Places Screenshot" src="YOUR_IMAGE_LINK_HERE">
+<img width="700" alt="Places Screenshot" src="place.png">
 
 ---
 
@@ -66,6 +66,7 @@ Complete travel plan for Goa — weather + top spots
 ### 🚫 Error Handling
 Unknown/fictional city example
 <img width="700" alt="Error Handling" src="YOUR_IMAGE_LINK_HERE">
+
 
 
 
