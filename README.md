@@ -59,13 +59,14 @@ Hyderabad attractions using Overpass API
 
 ### 🧳 Trip Plan Example
 Complete travel plan for Goa — weather + top spots
-<img width="700" alt="Trip Plan Screenshot" src="YOUR_IMAGE_LINK_HERE">
+<img width="700" alt="Trip Plan Screenshot" src="trip.png">
 
 ---
 
 ### 🚫 Error Handling
 Unknown/fictional city example
 <img width="700" alt="Error Handling" src="YOUR_IMAGE_LINK_HERE">
+
 
 
 
