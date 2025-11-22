@@ -65,7 +65,8 @@ Complete travel plan for Goa — weather + top spots
 
 ### 🚫 Error Handling
 Unknown/fictional city example
-<img width="700" alt="Error Handling" src="YOUR_IMAGE_LINK_HERE">
+<img width="700" alt="Error Handling" src="error.png">
+
 
 
 
