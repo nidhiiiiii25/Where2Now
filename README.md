@@ -31,9 +31,11 @@ Where2Now is a multi-agent AI tourism assistant that helps you:
 ---
 
 ## 🚀 Try It Yourself
-(Will add Streamlit Cloud link after deployment)
+https://where2now-r7nrksyuhfp4xdeomwzzvd.streamlit.app/
+
 
 ---
 
 ## 📸 Demo Screenshots
 (Add 2-3 screenshots here after deploy)
+
