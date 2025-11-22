@@ -37,5 +37,35 @@ https://where2now-r7nrksyuhfp4xdeomwzzvd.streamlit.app/
 ---
 
 ## 📸 Demo Screenshots
-(Add 2-3 screenshots here after deploy)
+## ✨ App Screenshots
+
+### 🏁 Home Screen
+Where2Now — your trip. My plan.
+<img width="700" alt="Home Screen" src="YOUR_IMAGE_LINK_HERE">
+
+---
+
+### 🌦 Weather Example
+Bangalore real-time weather using Open-Meteo API
+<img width="700" alt="Weather Screenshot" src="YOUR_IMAGE_LINK_HERE">
+
+---
+
+### 🗺 Places Example
+Hyderabad attractions using Overpass API
+<img width="700" alt="Places Screenshot" src="YOUR_IMAGE_LINK_HERE">
+
+---
+
+### 🧳 Trip Plan Example
+Complete travel plan for Goa — weather + top spots
+<img width="700" alt="Trip Plan Screenshot" src="YOUR_IMAGE_LINK_HERE">
+
+---
+
+### 🚫 Error Handling
+Unknown/fictional city example
+<img width="700" alt="Error Handling" src="YOUR_IMAGE_LINK_HERE">
+
+
 
